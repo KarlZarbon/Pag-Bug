@@ -1,6 +1,9 @@
 # Pag-Bug
 Itch.io Game Off 2021 entry
 
+You can play it here: https://kzarbon.itch.io/pag-bug
+
+
 # Credits
 
 ## Coding
